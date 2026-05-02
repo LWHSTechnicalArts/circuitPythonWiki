@@ -17,6 +17,14 @@ This will take a moment. The last commit banner above the files will show you an
 
 Visit https://lwhstechnicalarts.github.io/circuitPythonWiki/ to access the deployed site.
 
+## To Iterate Faster
+You can serve a version of this wiki locally for quicker design iteration.
+
+    pip install mkdocs
+    pip install mkdocs-material
+    mkdocs serve
+    visit localhost:8000
+
 # References
 
 1. [GitHub Workflows](https://docs.github.com/en/actions/concepts/workflows-and-actions/workflows)
