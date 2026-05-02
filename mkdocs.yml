@@ -6,3 +6,6 @@ theme:
     scheme: slate
 extra_css:
   - stylesheets/extra.css
+copyright: "Lick-Wilmerding High School Department of Technical Arts"
+extra:
+  generator: false
