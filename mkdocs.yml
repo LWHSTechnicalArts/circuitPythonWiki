@@ -2,5 +2,7 @@ site_name: My Wiki
 theme:
   name: material
   font: false
+   palette:
+    scheme: slate
 extra_css:
   - stylesheets/extra.css
