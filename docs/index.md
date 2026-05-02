@@ -1,3 +1,3 @@
 # Welcome
 
-- [ConvNeXt](convnext.md)
+- [blahConvNeXt](convnext.md)
