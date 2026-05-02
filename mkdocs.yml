@@ -1,11 +1,31 @@
-site_name: My Wiki
+site_name: CircuitPython Wiki
 theme:
   name: material
   font: false
   palette:
     scheme: slate
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.code.copy
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
 copyright: "Lick-Wilmerding High School Department of Technical Arts"
 extra:
   generator: false
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - tables
+  - attr_list
