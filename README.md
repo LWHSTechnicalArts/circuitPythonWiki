@@ -1,5 +1,5 @@
 # Tech Arts CircuitPython Wiki
-This site describes each library in the CircuitPython bundle in an inviting way, to enable students to design and invent more fluently.
+This site describes each library in the CircuitPython bundle in an inviting way, to enable students to design and invent more fluently in open-ended class projects and independent studies.
 
 ## Contribution
 1. Clone this repository
