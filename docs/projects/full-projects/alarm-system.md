@@ -172,6 +172,6 @@ The `adafruit_led_animation` library manages animations as objects you create on
 
 All three libraries used in this project have their own reference pages with additional examples, configuration options, and troubleshooting tips.
 
-- [LIS3DH accelerometer reference](../../reference/sensors/lis3dh.md)
+- [LIS3DH accelerometer reference](../../reference/sensors/motion/lis3dh.md)
 - [adafruit_led_animation reference](../../reference/lights/led-animation.md)
 - [simpleio reference](../../reference/audio/simpleio-tones.md)

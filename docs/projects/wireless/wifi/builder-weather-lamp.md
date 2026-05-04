@@ -201,5 +201,5 @@ All are in the CircuitPython Library Bundle at [circuitpython.org/libraries](htt
 
 ## Go deeper
 
-- Reference: [adafruit_requests library](../../reference/wireless/wifi/requests.md)
+- Reference: [adafruit_requests library](../../../reference/wireless/wifi/requests.md)
 - [CircuitPython Connected Weather Cloud](https://learn.adafruit.com/circuitpython-connected-weather-cloud) — *Credit: Adafruit Learning System*

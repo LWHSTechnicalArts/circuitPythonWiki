@@ -216,7 +216,7 @@ A 64×32 LED matrix can only show a few characters at a time at a readable size.
 
 ## Go deeper
 
-- [adafruit_requests reference](../../reference/wireless/wifi-requests.md)
+- [adafruit_requests reference](../../reference/wireless/wifi/requests.md)
 - [adafruit_ht16k33 reference](../../reference/displays/ht16k33.md)
-- [adafruit_matrixportal reference](../../reference/displays/matrixportal.md)
+- [adafruit_matrixportal reference](../../reference/displays/ht16k33.md)
 - [adafruit_display_text reference](../../reference/displays/display-text.md)

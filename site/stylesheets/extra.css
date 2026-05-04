@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Teachers&family=Permanent+Marker&display=swap');
+
+@font-face {
+  font-family: 'Koi';
+  src: url('fonts/Koi-Medium.otf') format('opentype');
+}
+
+body {
+  font-family: 'Teachers', sans-serif;
+}
+
+h1 {
+  font-family: 'Koi', sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+code, pre {
+  font-family: 'Consolas', monospace;
+}
+
+.md-header {
+  display: none;
+}
+
+.md-nav__item--section > .md-nav__link {
+    font-size: 1.05rem;
+    font-weight: 700;
+}

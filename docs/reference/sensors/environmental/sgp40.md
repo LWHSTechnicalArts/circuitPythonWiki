@@ -41,4 +41,4 @@ The key method is `measure_index()`. The docs explain the VOC algorithm internal
 
 ## Projects using this library
 - [Adafruit SGP40 Air Quality Sensor](https://learn.adafruit.com/adafruit-sgp40) — hardware overview and CircuitPython example with SHT31 compensation. *Credit: Adafruit Learning System*
-- [Air Quality Dashboard](../../projects/air-quality-dashboard.md) — displays VOC index alongside temperature and humidity. *Credit: This wiki*
+- [Air Quality Dashboard](../../../projects/sensors/hacker-air-quality-dash.md) — displays VOC index alongside temperature and humidity. *Credit: This wiki*

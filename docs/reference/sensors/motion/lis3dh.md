@@ -38,5 +38,5 @@ The `set_tap()` arguments are tap count (1 or 2) and threshold (0–255, higher 
 
 ## Projects using this library
 - [Adafruit LIS3DH Triple-Axis Accelerometer Breakout](https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout) — wiring, range settings, and tap detection walkthrough. *Credit: Adafruit Learning System*
-- [Motion Alarm](../../projects/motion-alarm.md) — triggers an alert when the sensor detects movement or freefall. *Credit: This wiki*
-- [Reactive Wearable](../../projects/reactive-wearable.md) — changes NeoPixel colors based on acceleration magnitude. *Credit: This wiki*
+- [Motion Alarm](../../../projects/sensors/builder-motion-alarm.md) — triggers an alert when the sensor detects movement or freefall. *Credit: This wiki*
+- [Reactive Wearable](../../../projects/lights/hacker-reactive-wearable.md) — changes NeoPixel colors based on acceleration magnitude. *Credit: This wiki*

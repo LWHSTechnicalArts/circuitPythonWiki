@@ -37,4 +37,4 @@ The API reference covers `temperature`, `relative_humidity`, and `heater`. Use t
 
 ## Projects using this library
 - [Adafruit SHT31-D Temperature and Humidity Sensor Breakout](https://learn.adafruit.com/adafruit-sht31-d-temperature-and-humidity-sensor-breakout) — wiring guide and CircuitPython examples. *Credit: Adafruit Learning System*
-- [Air Quality Dashboard](../../projects/air-quality-dashboard.md) — combines temperature, humidity, and VOC data on a display. *Credit: This wiki*
+- [Air Quality Dashboard](../../../projects/sensors/hacker-air-quality-dash.md) — combines temperature, humidity, and VOC data on a display. *Credit: This wiki*

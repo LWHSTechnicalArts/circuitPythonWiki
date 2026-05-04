@@ -20,7 +20,7 @@ The projects below are organized by complexity. Each one builds on skills introd
 
 ## What you will need to know first
 
-The starter project assumes you can copy a `.py` file onto a CIRCUITPY drive and install a library. If that is new to you, work through the [Getting Started](../../getting-started/index.md) guide first.
+The starter project assumes you can copy a `.py` file onto a CIRCUITPY drive and install a library. If that is new to you, work through the [Getting Started](../../getting-started.md) guide first.
 
 The builder and hacker projects introduce USB MIDI, I2S digital audio, and software synthesis. Each project explains the concepts it uses, so you do not need prior experience with audio hardware — just patience and a willingness to read the "How it works" sections carefully.
 

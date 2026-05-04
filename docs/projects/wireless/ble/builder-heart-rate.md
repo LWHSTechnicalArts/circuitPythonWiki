@@ -138,6 +138,6 @@ Both are in the CircuitPython Library Bundle at [circuitpython.org/libraries](ht
 
 ## Go deeper
 
-- Reference: [BLE Heart Rate library](../../reference/wireless/ble/ble-heart-rate.md)
+- Reference: [BLE Heart Rate library](../../../reference/wireless/ble/ble-heart-rate.md)
 - [BLE Heart Rate Display Pendant](https://learn.adafruit.com/ble-heart-rate-display-pendant) — *Credit: Adafruit Learning System*
 - [CircuitPython BLE Heart Rate Monitor Gizmo](https://learn.adafruit.com/circuitpython-ble-heart-rate-monitor-gizmo) — *Credit: Adafruit Learning System*

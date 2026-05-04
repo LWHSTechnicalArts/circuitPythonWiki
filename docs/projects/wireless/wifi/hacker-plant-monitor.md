@@ -283,5 +283,5 @@ All are in the CircuitPython Library Bundle at [circuitpython.org/libraries](htt
 
 ## Go deeper
 
-- Reference: [Adafruit IO library](../../reference/wireless/wifi/adafruit-io.md)
+- Reference: [Adafruit IO library](../../../reference/wireless/wifi/adafruit-io.md)
 - [PyPortal IoT Plant Monitor with Google Cloud IoT Core](https://learn.adafruit.com/pyportal-iot-plant-monitor-with-google-cloud-iot-core-and-circuitpython) — *Credit: Adafruit Learning System*

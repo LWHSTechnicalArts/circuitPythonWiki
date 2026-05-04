@@ -109,5 +109,5 @@ do not cover.
 USB is just one transport. Many of these same ideas — sending keystrokes, controlling
 a DAW, acting as a game controller — can also run wirelessly over Bluetooth LE on
 boards that support it. Once you understand how HID works over USB, the BLE versions
-will make immediate sense. See the [wireless section](../wireless/) when you are ready
+will make immediate sense. See the [wireless section](../wireless/index.md) when you are ready
 to cut the cord.

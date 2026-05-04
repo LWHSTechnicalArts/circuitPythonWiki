@@ -78,7 +78,7 @@ The `blink_time` calculation maps distance to speed: dividing by 200 scales the 
 
 Copy `adafruit_hcsr04.mpy` from the CircuitPython library bundle to your board's `lib/` folder.
 
-Not sure how to get the bundle? See [Installing Libraries](../../reference/getting-started/installing-libraries.md).
+Not sure how to get the bundle? See [Installing Libraries](../../getting-started.md).
 
 ## Remix it
 

@@ -172,6 +172,6 @@ The Rothfusz regression is the formula used by the US National Weather Service t
 
 ## Go deeper
 
-- [adafruit_bme280 reference](../../reference/sensors/bme280.md)
+- [adafruit_bme280 reference](../../reference/sensors/environmental/bme280.md)
 - [adafruit_displayio_ssd1306 reference](../../reference/displays/ssd1306.md)
 - [adafruit_display_text reference](../../reference/displays/display-text.md)

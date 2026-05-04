@@ -144,5 +144,5 @@ Both are in the CircuitPython Library Bundle at [circuitpython.org/libraries](ht
 
 ## Go deeper
 
-- Reference: [adafruit_ble library](../../reference/wireless/ble/adafruit-ble.md)
+- Reference: [adafruit_ble library](../../../reference/wireless/ble/adafruit-ble.md)
 - [BLE HID Keyboard Buttons with CircuitPython](https://learn.adafruit.com/ble-hid-keyboard-buttons-with-circuitpython) — *Credit: Adafruit Learning System*

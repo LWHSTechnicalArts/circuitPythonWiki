@@ -176,7 +176,7 @@ NTP servers always return time in UTC (Coordinated Universal Time), which is the
 
 ## Go deeper
 
-- [wifi / adafruit_requests reference](../../reference/wireless/wifi-requests.md)
-- [adafruit_ntp reference](../../reference/wireless/ntp.md)
+- [wifi / adafruit_requests reference](../../reference/wireless/wifi/requests.md)
+- [adafruit_ntp reference](../../reference/wireless/wifi/ntp.md)
 - [adafruit_displayio_ssd1306 reference](../../reference/displays/ssd1306.md)
 - [adafruit_display_text reference](../../reference/displays/display-text.md)

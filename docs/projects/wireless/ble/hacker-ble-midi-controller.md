@@ -185,6 +185,6 @@ All are in the CircuitPython Library Bundle at [circuitpython.org/libraries](htt
 
 ## Go deeper
 
-- Reference: [BLE MIDI library](../../reference/wireless/ble/ble-midi.md)
+- Reference: [BLE MIDI library](../../../reference/wireless/ble/ble-midi.md)
 - [Bluetooth LE MIDI Controller](https://learn.adafruit.com/bluetooth-le-midi-controller) — *Credit: Adafruit Learning System*
 - [MIDI for Makers: BLE MIDI Sequencer](https://learn.adafruit.com/midi-for-makers/ble-midi-sequencer) — *Credit: Adafruit Learning System*

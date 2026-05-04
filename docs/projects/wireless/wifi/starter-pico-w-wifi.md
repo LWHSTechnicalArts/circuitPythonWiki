@@ -133,5 +133,5 @@ Both are in the CircuitPython Library Bundle at [circuitpython.org/libraries](ht
 
 ## Go deeper
 
-- Reference: [adafruit_requests library](../../reference/wireless/wifi/requests.md)
+- Reference: [adafruit_requests library](../../../reference/wireless/wifi/requests.md)
 - [Pico W WiFi with CircuitPython](https://learn.adafruit.com/pico-w-wifi-with-circuitpython) — *Credit: Adafruit Learning System*

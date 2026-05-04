@@ -142,7 +142,7 @@ All are in the CircuitPython Library Bundle at [circuitpython.org/libraries](htt
 
 ## Go deeper
 
-- Reference: [Adafruit IO library](../../reference/wireless/wifi/adafruit-io.md)
+- Reference: [Adafruit IO library](../../../reference/wireless/wifi/adafruit-io.md)
 - [Welcome to Adafruit IO — CircuitPython](https://learn.adafruit.com/welcome-to-adafruit-io/circuitpython-and-adafruit-io) — *Credit: Adafruit Learning System*
 - [Adafruit IO Basics: Feeds](https://learn.adafruit.com/adafruit-io-basics-feeds) — *Credit: Adafruit Learning System*
 - [Adafruit IO Basics: Dashboards](https://learn.adafruit.com/adafruit-io-basics-dashboards) — *Credit: Adafruit Learning System*

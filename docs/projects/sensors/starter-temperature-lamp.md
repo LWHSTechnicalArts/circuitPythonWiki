@@ -78,7 +78,7 @@ The `temp_to_color()` function maps a number range to a color range. The variabl
 
 Copy `neopixel.mpy` and `adafruit_mcp9808.mpy` from the CircuitPython library bundle to your board's `lib/` folder. Also copy the `adafruit_bus_device` folder — it's a dependency needed for I2C communication behind the scenes.
 
-Not sure how to get the bundle? See [Installing Libraries](../../reference/getting-started/installing-libraries.md).
+Not sure how to get the bundle? See [Installing Libraries](../../getting-started.md).
 
 ## Remix it
 

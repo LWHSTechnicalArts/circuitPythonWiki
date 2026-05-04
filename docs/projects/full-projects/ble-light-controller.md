@@ -178,6 +178,6 @@ The key design choice in the main loop is that `current_animation().animate()` i
 
 ## Go deeper
 
-- [adafruit_ble reference](../../reference/wireless/ble.md)
+- [adafruit_ble reference](../../reference/wireless/ble/adafruit-ble.md)
 - [adafruit_led_animation reference](../../reference/lights/led-animation.md)
-- [adafruit_bluefruit_connect reference](../../reference/wireless/bluefruit-connect.md)
+- [adafruit_bluefruit_connect reference](../../reference/wireless/ble/adafruit-ble.md)

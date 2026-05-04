@@ -34,7 +34,7 @@ Hacker-level projects combine multiple sensors, external services, or both. You'
 
 | Project | Input | Output |
 |---|---|---|
-| [Air Quality Dashboard](hacker-air-quality-dashboard.md) | SGP40 air quality sensor | Display and Adafruit IO |
+| [Air Quality Dashboard](hacker-air-quality-dash.md) | SGP40 air quality sensor | Display and Adafruit IO |
 
 ## The remix mindset
 

@@ -165,4 +165,4 @@ Mechanical buttons bounce — when the contacts close, they make and break conta
 
 - [adafruit_hid reference](../../reference/usb/hid.md)
 - [adafruit_debouncer reference](../../reference/utilities/debouncer.md)
-- [analogio reference](../../reference/io-expansion/analogio.md)
+- [analogio reference](../../reference/utilities/simpleio.md)

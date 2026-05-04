@@ -101,6 +101,6 @@ CIRCUITPY/
 
 ## Go deeper
 
-- Reference: [adafruit_ble library](../../reference/wireless/ble/adafruit-ble.md)
+- Reference: [adafruit_ble library](../../../reference/wireless/ble/adafruit-ble.md)
 - [CircuitPython on nRF52840](https://learn.adafruit.com/circuitpython-nrf52840) — *Credit: Adafruit Learning System*
 - [Wirelessly Code Your Bluetooth Device](https://learn.adafruit.com/wirelessly-code-your-bluetooth-device-with-circuitpython) — *Credit: Adafruit Learning System*

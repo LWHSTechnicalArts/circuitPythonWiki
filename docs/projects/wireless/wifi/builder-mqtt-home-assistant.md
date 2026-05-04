@@ -241,5 +241,5 @@ All are in the CircuitPython Library Bundle at [circuitpython.org/libraries](htt
 
 ## Go deeper
 
-- Reference: [adafruit_minimqtt library](../../reference/wireless/wifi/minimqtt.md)
+- Reference: [adafruit_minimqtt library](../../../reference/wireless/wifi/minimqtt.md)
 - [PyPortal MQTT Sensor Node / Control Pad for Home Assistant](https://learn.adafruit.com/pyportal-mqtt-sensor-node-control-pad-home-assistant) — *Credit: Adafruit Learning System*
